@@ -53,4 +53,3 @@
     <menuitem id="subscription_menu" name="Subscriptions" sequence="10"/>
     <menuitem id="subscription_submenu" name="Manage Subscriptions" parent="subscription_menu" action="action_subscription"/>
 </odoo>
--->
